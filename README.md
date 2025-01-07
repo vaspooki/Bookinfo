@@ -236,3 +236,4 @@ You should see the following in the browser.
 
 Bookinfo is tested by istio.io integration tests. You can find them under [tests](https://github.com/istio/istio.io/tree/master/tests) in the [istio/istio.io](https://github.com/istio/istio.io) repository.
 # eks_istio_bookinfo_app
+# bookinfo
